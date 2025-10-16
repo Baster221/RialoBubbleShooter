@@ -6,7 +6,7 @@
 
 **🚀 The Ultimate HTML5 Bubble Shooter Experience 🚀**
 
-[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF6B6B?style=for-the-badge&logoColor=white)](index.html)
+[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF6B6B?style=for-the-badge&logoColor=white)](https://baster221.github.io/RialoBubbleShooter/)
 [![HTML5 Game](https://img.shields.io/badge/HTML5_Game-4ECDC4?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Games)
 [![Mobile Friendly](https://img.shields.io/badge/📱_Mobile_Friendly-45B7D1?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
@@ -35,7 +35,7 @@ Get ready for an addictive bubble-popping adventure! **Rialo Bubble Shooter** co
 
 ### 🌐 Quick Play Options
 
-**🎮 [CLICK HERE TO PLAY NOW!](index.html)**
+**🎮 [CLICK HERE TO PLAY NOW!](https://baster221.github.io/RialoBubbleShooter/)**
 
 No downloads, no installations - just pure bubble-shooting fun in your browser!
 
@@ -187,7 +187,7 @@ The traditional bubble shooter experience with progressive difficulty. Clear eac
 
 <div align="center">
 
-### 🚀 **[START YOUR BUBBLE SHOOTING ADVENTURE NOW!](index.html)** 🚀
+### 🚀 **[START YOUR BUBBLE SHOOTING ADVENTURE NOW!](https://baster221.github.io/RialoBubbleShooter/)** 🚀
 
 ---
 
